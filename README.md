@@ -12,11 +12,11 @@ SQL
 Algorithms & Data Structures
 
 ### Key Projects
-Study AI (Python, Tensorflow, SQL)
-YuGiTools(C++, SQL)
-Virtual Card Game(Unity, C#, Javascript)
-Tower Defense Mobile Game (Java)
-Minecraft Mod (Java
+Study AI (Python, Tensorflow, SQL) /n
+YuGiTools(C++, SQL) /n 
+Virtual Card Game(Unity, C#, Javascript) /n
+Tower Defense Mobile Game (Java) /n
+Minecraft Mod (Java) /n
 
 ### Experience
 
